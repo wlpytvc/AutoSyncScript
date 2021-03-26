@@ -1,4 +1,4 @@
-name: youthshare
+name: LxgLxg-sync
 on:
   schedule:
     - cron: '1 */3 * * *'
